@@ -1,7 +1,7 @@
-import random
 from hangman_art import stages, logo
 from hangman_words import word_list
 import os
+import random
 
 clear=lambda:os.system('cls')
 
